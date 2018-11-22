@@ -1,0 +1,4 @@
+ {
+   "ID": "R_2cjXvS1cvFtpBtq",
+   "text": "Concept group: Hard drive ,Microsoft Office ,Gmail | Guided concept group: [EMAIL (with malicious attachments) ,ONLINE OFFICE SUITES (Google suite, MS Office 365, ...)] , [MALICIOUS WEB PAGES (malicious software will be downloaded upon your visit) ,FAKE WEB PAGES (imitates the real one)] | Knowledge Test results: Passed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }

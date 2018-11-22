@@ -1,0 +1,4 @@
+ {
+   "ID": "R_24NwOnG2Nlf8oR7",
+   "text": "Concept group: smartphones ,Laptops ,Computers | Guided concept group: [Email ,Malicious Browser add-ons] , [Email ,Compromised Web pages] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

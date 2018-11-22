@@ -1,0 +1,4 @@
+ {
+   "ID": "R_31pBgiL7VzxkEcR",
+   "text": "Concept group: microsoft email ,dentrix ,epic | Guided concept group: [EMAIL ,MALICIOUS WEB PAGES] , [COMPROMISED WEB PAGES ,MALICIOUS BROWSER ADD-ONS] | Knowledge Test results: Failed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }

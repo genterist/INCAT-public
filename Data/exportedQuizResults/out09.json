@@ -1,0 +1,4 @@
+ {
+   "ID": "R_00MXDWeETEmwbW9",
+   "text": "Concept group: Servers ,Laptops ,cell phones | Guided concept group: [Email ,fake web pages] , [smart devices ,malicious web pages] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

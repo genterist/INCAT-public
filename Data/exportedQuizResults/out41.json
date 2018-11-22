@@ -1,0 +1,4 @@
+ {
+   "ID": "R_2aIAC24kHa8VJ9W",
+   "text": "Concept group: banking ,facebook ,email | Guided concept group: [EMAIL ,MOBILE - UTILITIES] , [FAKE WEB PAGES ,MALICIOUS BROWSER ADD-ONS] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }

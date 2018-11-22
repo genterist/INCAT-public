@@ -1,0 +1,4 @@
+ {
+   "ID": "R_3qaPvQarssxs2DS",
+   "text": "Concept group: Computers ,Cell Phones ,Wireless Speakers, ex. Amazon Echo | Guided concept group: [EMAIL (with malicious attachments) ,DESKTOP OFFICE SUITES (MS Word, Excel, ...)] , [MOBILE - UTILITIES (mobile apps that are not games) ,SMART DEVICES (devices that can connect to the network)] | Knowledge Test results: Failed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }

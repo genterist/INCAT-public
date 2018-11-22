@@ -1,0 +1,4 @@
+ {
+   "ID": "R_302liADmU1uKpG8",
+   "text": "Concept group: Computer ,Phone ,Smart TV | Guided concept group: [Email ,Online Office Suites] , [Malicious Web Pages ,Smart Devices] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

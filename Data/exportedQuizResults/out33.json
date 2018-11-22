@@ -1,0 +1,4 @@
+ {
+   "ID": "R_1g6ZTiYwSGdy2fd",
+   "text": "Concept group: monitors in ICU ,Digital blood pressure apparatus ,intent receiving computers in the pharmacy. | Guided concept group: [EMAIL ,MOBILE-UTILITIES] , [ONLINE OFFICE SUITES ,DESKTOP OFFICE SUITES] | Knowledge Test results: Failed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

@@ -1,0 +1,4 @@
+ {
+   "ID": "R_1C9Bo5PDctMa8Tg",
+   "text": "Concept group: CERNER system ,Patient Information Database ,Bleeping devices | Guided concept group: [MALICIOUS BROWSER ADD-ONS ,MOBILE - UTILITIES (mobile apps that are not games)] , [ EMAIL (with malicious attachments) ,MALICIOUS WEB PAGES (malicious software will be downloaded upon your visit)] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

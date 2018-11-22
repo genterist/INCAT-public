@@ -1,0 +1,4 @@
+ {
+   "ID": "R_1LUyOfEobX6NbH2",
+   "text": "Concept group: Laptop ,Desktops ,Tablets | Guided concept group: [Fake web pages ,Malicious browser add-ons] , [Email ,Compromised web pages] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }

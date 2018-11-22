@@ -1,0 +1,4 @@
+ {
+   "ID": "R_3knqghLTEnHoF2w",
+   "text": "Concept group: java ,ibm power ,firewall | Guided concept group: [EMAIL (with malicious attachments) ,FAKE WEB PAGES (imitates the real one)] , [COMPROMISED WEB PAGES (legitimate web pages got hacked) ,MALICIOUS BROWSER ADD-ONS] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }

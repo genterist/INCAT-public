@@ -1,0 +1,112 @@
+ {
+   "ID": "R_21Ba8HKcEkpb6Sd",
+   "text": "Concept group: Email ,Cloud storage ,Electronic medical records  | Guided concept group: [Alpha ,Omega] , [Delta ,Force] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_VVcIbX013R2fkEp",
+   "text": "Concept group: Proximity Card Readers ,Apache Struts ,Locks | Guided concept group: [EMAIL ,FAKE WEB PAGES] , [SMART DEVICES ,COMPROMISED WEB PAGES] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_3KuOZMF2wSSYlNU",
+   "text": "Concept group: servers ,intranet ,electronic medical records | Guided concept group: [email ,desktop office suites] , [malicious web pages ,online office suites] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }
+ {
+   "ID": "R_8epXuiyJCfY6zxD",
+   "text": "Concept group: PC and laptops ,smart phones ,torrent clients | Guided concept group: [MALICIOUS WEB PAGES ,SMART DEVICES ] , [EMAIL , SMART DEVICES] | Knowledge Test results: Failed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_2BkQb4jM8esgpJD",
+   "text": "Concept group: Credit cards ,Social media accounts ,ATMs | Guided concept group: [COMPROMISED WEB PAGES ,FAKE WEB PAGES] , [EMAIL (with malicious attachments) ,MALICIOUS WEB PAGES (malicious software will be downloaded upon your visit)] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }
+ {
+   "ID": "R_2sWRPNsuhEpFGsq",
+   "text": "Concept group: Email ,IPhone ,Facebook | Guided concept group: [Email ,Smart Devices] , [Malicious Browser Add-Ons ,Fake Web Pages] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_24iVi31KPAWlCEK",
+   "text": "Concept group: computer ,webcam ,phone | Guided concept group: [printer ,email] , [mobile-games ,smart devices] | Knowledge Test results: Failed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_0BcRi1qbA66Cyg9",
+   "text": "Concept group: router ,laptop ,smartphone | Guided concept group: [website link ,social media private message] , [software vulnerability ,unpatched laptop] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_SKatpOla3u8nQw9",
+   "text": "Concept group: Phone ,Email ,Bank account | Guided concept group: [EMAIL ,FAKE WEB PAGES] , [DESKTOP OFFICE SUITES ,GRAPHIC SUITES] | Knowledge Test results: Passed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_aXmbs6CKzBIppZv",
+   "text": "Concept group: Credit Card Machines ,Computers ,Tablets | Guided concept group: [EMAIL ,DESKTOP] , [Malicious Add on ,Smart Device] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_3MGXKOAFCYZ6Km7",
+   "text": "Concept group: Banking apps ,laptops ,cell phones | Guided concept group: [Fake Web Pages ,Smart Devices] , [Email ,Compromised Web Pages] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_239LMSYTI4DFtuF",
+   "text": "Concept group: Social media ,email ,webcams | Guided concept group: [EMAIL  ,MALICIOUS WEB PAGES] , [SMART DEVICES ,MOBILE - UTILITIES] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_3h3iioVEZb3Bwvn",
+   "text": "Concept group: Bitcoin ,extramarital dating site ,card pin | Guided concept group: [access diver ,crecking tool] , [key generator ,super scan] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Failed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_DeCzrIh51tqhgsx",
+   "text": "Concept group: Credit card information ,debit card information ,Bank account details | Guided concept group: [EMAIL (with malicious attachments) ,MALICIOUS WEB PAGES (malicious software will be downloaded upon your visit)] , [FAKE WEB PAGES (imitates the real one) ,COMPROMISED WEB PAGES (legitimate web pages got hacked)] | Knowledge Test results: Failed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_QfRthe3wnwQR3gt",
+   "text": "Concept group: Oracle ,mobile phones ,voting machines | Guided concept group: [EMAIL ,MALICIOUS WEB PAGES (] , [COMPROMISED WEB PAGES  ,MALICIOUS BROWSER ADD-ONS] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }
+ {
+   "ID": "R_1lfLaGUIaH3H1EI",
+   "text": "Concept group: Insurance Clearinghouse ,Insurance verification portal ,CMS | Guided concept group: [EMAIL ,MOBILE GAMES] , [EMAIL ,MALICIOUS WEB PAGES] | Knowledge Test results: Failed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Failed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }
+ {
+   "ID": "R_3KDb9Xjso7o3JFh",
+   "text": "Concept group: wifi pineapple ,alfa network board ,rubber ducky | Guided concept group: [email ,smart devices] , [video editors ,malicious] | Knowledge Test results: Passed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Failed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }
+ {
+   "ID": "R_33DMxO04c4wxKLs",
+   "text": "Concept group: Email ,Employee Portal ,WiFi | Guided concept group: [Email ,Compromised Web  Pages] , [Mobile- utilities ,Fake Web Pages] | Knowledge Test results: Failed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }
+ {
+   "ID": "R_7USdO6RejdI36uZ",
+   "text": "Concept group: Email ,Electronic Medical Records ,Database systems  | Guided concept group: [Email attachment ,Pop up window] , [Virus ,Instant message ] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }
+ {
+   "ID": "R_3Nx5rySsxvaMbgi",
+   "text": "Concept group: databases ,hard drive ,shared drive | Guided concept group: [fake web pages ,smart devices] , [malicious browser add-ons ,email] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_3NQBf4rvhdFyc1s",
+   "text": "Concept group: Desktop Computer ,Phone ,Tablet | Guided concept group: [Online Office Suites ,Desktop Office Suites] , [Fake Web pages ,Smart Devices] | Knowledge Test results: Failed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_3R9Dy7415UXlyW5",
+   "text": "Concept group: Outlook or employee email servers ,Epic or Electronic Health Record Management Systems ,Box or online file storage programs | Guided concept group: [ONLINE OFFICE SUITES (Google suite, MS Office 365, ...) ,MALICIOUS BROWSER ADD-ONS] , [SMART DEVICES (devices that can connect to the network) ,FAKE WEB PAGES (imitates the real one)] | Knowledge Test results: Failed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_5AUNl8KaKwDwIMx",
+   "text": "Concept group: cloud storage ,hard drives ,physical memory | Guided concept group: [email ,fake web pages] , [printers ,desktop office suites] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }
+ {
+   "ID": "R_1Hbj3sTYAAlzi3K",
+   "text": "Concept group: student academic records ,financial accounts ,research software intellectual property | Guided concept group: [MALICIOUS WEB PAGES ,COMPROMISED WEB PAGES] , [PRINTERS ,SMART DEVICES] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_216y8zkKocz6KtC",
+   "text": "Concept group: mac books ,i pads ,i phone | Guided concept group: [EMAIL ,MALICIOUS WEB PAGES ] , [GRAPHIC SUITES ,DESKTOP OFFICE SUITES] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }
+ {
+   "ID": "R_yxYjZCxVYoFNOJH",
+   "text": "Concept group: email ,Medical records ,voicemails | Guided concept group: [MALICIOUS BROWSER ADD-ONS ,COMPROMISED WEB PAGES] , [EMAIL ,FAKE WEB PAGES] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_2whOnP7DNK0K6IR",
+   "text": "Concept group: computers ,phones ,bank accounts | Guided concept group: [MALICIOUS BROWSER ADD-ONS ,FAKE WEB PAGES (imitates the real one)] , [SMART DEVICES (devices that can connect to the network) ,MOBILE - UTILITIES (mobile apps that are not games)] | Knowledge Test results: Passed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
+ {
+   "ID": "R_2WNqbqwBnG1ZDi2",
+   "text": "Concept group: Computers ,Phones ,Cameras | Guided concept group: [Fake web pages ,Email] , [Smart Devices ,Printers] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

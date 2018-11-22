@@ -1,0 +1,4 @@
+ {
+   "ID": "R_3snMcZoZifUcdgF",
+   "text": "Concept group: webpage ,laptop ,email | Guided concept group: [smart devices ,compromised web pages] , [email ,online office suites] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

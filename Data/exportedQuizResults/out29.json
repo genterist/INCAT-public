@@ -1,0 +1,4 @@
+ {
+   "ID": "R_6fhpXbsIR0OyZBD",
+   "text": "Concept group: computers ,cell phones ,tvs | Guided concept group: [EMAIL (with malicious attachments) ,MALICIOUS WEB PAGES (malicious software will be downloaded upon your visit)] , [COMPROMISED WEB PAGES (legitimate web pages got hacked) ,FAKE WEB PAGES (imitates the real one)] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }

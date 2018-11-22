@@ -1,0 +1,4 @@
+ {
+   "ID": "R_1OvFqeatrQusQmK",
+   "text": "Concept group: email ,servers ,EMR software | Guided concept group: [  EMAIL (with malicious attachments) ,FAKE WEB PAGES (imitates the real one)] , [MALICIOUS WEB PAGES (malicious software will be downloaded upon your visit) ,MALICIOUS BROWSER ADD-ONS] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Failed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

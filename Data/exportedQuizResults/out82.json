@@ -1,0 +1,4 @@
+ {
+   "ID": "R_2RWXjel6bThnl2H",
+   "text": "Concept group: iphone ,laptop ,camera system | Guided concept group: [EMAIL (with malicious attachments) ,MALICIOUS BROWSER ADD-ONS] , [COMPROMISED WEB PAGES (legitimate web pages got hacked) ,MALICIOUS BROWSER ADD-ONS] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

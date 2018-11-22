@@ -1,0 +1,4 @@
+ {
+   "ID": "R_1o1Q00Cny3ocw9v",
+   "text": "Concept group: Windows ,IOS ,Office | Guided concept group: [mobile-games ,Smart Devices] , [Malicious Browser ADD-ONS ,email] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Failed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

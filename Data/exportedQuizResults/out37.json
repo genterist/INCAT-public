@@ -1,0 +1,4 @@
+ {
+   "ID": "R_1mfmuDiPxEK2Ioi",
+   "text": "Concept group: Facebook ,Cerner ,Twitter | Guided concept group: [email  (with malicious attachments) ,fake web pages] , [smart devices ,mobile - utilities] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Failed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

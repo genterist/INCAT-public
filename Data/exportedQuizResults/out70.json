@@ -1,0 +1,4 @@
+ {
+   "ID": "R_vBSIBBuDoAuAXUB",
+   "text": "Concept group: Windows ,Non OEM drivers ,Email servers | Guided concept group: [Email ,Online office suites] , [Malicious website ,Compromised website] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

@@ -1,0 +1,4 @@
+ {
+   "ID": "R_12xo1GM3y4ordPy",
+   "text": "Concept group: Users data ,The product itself ,Miscellaneous details like websites visibility and presence, website datas and architecture etc | Guided concept group: [Malicious browser addon ,Malicious web page] , [Malicious browser add-on  ,Fake web page ] | Knowledge Test results: Passed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

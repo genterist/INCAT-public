@@ -1,0 +1,4 @@
+ {
+   "ID": "R_1jrDRkmE5zmN74J",
+   "text": "Concept group: mobile phones ,computers ,Linux OS | Guided concept group: [EMAIL ,MALICIOUS WEB PAGES] , [MOBILE - UTILITIES ,COMPROMISED WEB PAGES] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

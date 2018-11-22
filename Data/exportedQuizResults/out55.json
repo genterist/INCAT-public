@@ -1,0 +1,4 @@
+ {
+   "ID": "R_3jZCmMZVYwPCj8k",
+   "text": "Concept group: Servers ,Email ,bank account | Guided concept group: [EMAIL ,FAKE WEB PAGES] , [SMART DEVICES ,MALICIOUS WEB PAGES] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

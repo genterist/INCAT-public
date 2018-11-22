@@ -1,0 +1,4 @@
+ {
+   "ID": "R_pnLuBAiqx7ADVgR",
+   "text": "Concept group: Outlook ,SQL Server ,Azure DevOps | Guided concept group: [EMAIL (with malicious attachments) ,DESKTOP OFFICE SUITES (MS Word, Excel, ...)] , [FAKE WEB PAGES (imitates the real one) ,GRAPHIC SUITES (Adobe Photoshop, Acrobat, Video editors, ...)] | Knowledge Test results: Passed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Failed: Word, code exec, local"
+ }

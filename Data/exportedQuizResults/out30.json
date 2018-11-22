@@ -1,0 +1,4 @@
+ {
+   "ID": "R_3JEs5zBaSlnl2Sk",
+   "text": "Concept group: Servers ,Security cameras ,Smartphones | Guided concept group: [Compromised web pages ,Online office suites] , [Fake web pages ,Malicious web pages] | Knowledge Test results: Passed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

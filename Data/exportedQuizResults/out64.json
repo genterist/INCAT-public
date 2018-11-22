@@ -1,0 +1,4 @@
+ {
+   "ID": "R_3nIc9JW86WQ35RX",
+   "text": "Concept group: Microsoft Window ,Cloud containing confidential data ,Insurance database of the hospital (where payments are stored) | Guided concept group: [EMAIL ,MOBILE - UTILITIES] , [MALICIOUS WEB PAGES ,FAKE WEB PAGES] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Passed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

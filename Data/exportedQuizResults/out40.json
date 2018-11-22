@@ -1,0 +1,4 @@
+ {
+   "ID": "R_2EzoTGUY8aca7hz",
+   "text": "Concept group: Apple Keychain ,Google Wallet ,Apple Pay | Guided concept group: [MOBILE - GAMES ,MOBILE - UTILITIES ] , [MALICIOUS BROWSER ADD-ONS ,MALICIOUS WEB PAGES] | Knowledge Test results: Failed: Windows, Mal App, Local | Failed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Passed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }

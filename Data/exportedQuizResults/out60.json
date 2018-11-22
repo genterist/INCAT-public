@@ -1,0 +1,4 @@
+ {
+   "ID": "R_1dAcZFA4KwXfvK4",
+   "text": "Concept group: Financial data ,Healthcare data ,Cell phones | Guided concept group: [desktop ,email] , [desktop ,malicious brower add-ons] | Knowledge Test results: Failed: Windows, Mal App, Local | Passed: Android, Mal App, Local | Failed: Excel, Online, Multi Auth | Passed: Online, mal web content, Man in Middle | Failed: Windows, direct write, resource remove | Passed: Word, code exec, local"
+ }
